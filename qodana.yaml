@@ -1,5 +1,5 @@
 version: 1.0
 profile:
-  name: empty
+  name: qodana.recommended
 include:
   - name: PhpVulnerablePathsInspection
